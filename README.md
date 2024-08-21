@@ -55,7 +55,7 @@ My career journey has given me the opportunity to work on various projects, from
 
 - LinkedIn: [Marcos Musafiri](https://www.linkedin.com/in/marcos-musafiri-7520231a1/)
 - GitHub: [marcos-mus](https://github.com/marcos-mus)
-- Portfolio: [Zabibu](https://zabibu.co) | [Go Innovation](https://goma-innovation.com)
+- Portfolio: [Zabibu](https://zabibu.co) | [Go Innovation](https://goma-innovation.com) | [Wakisha Holding](https://wakishaholding.com) | [Congo Circulaire](https://congocirculaire.org)
 
 ---
 
