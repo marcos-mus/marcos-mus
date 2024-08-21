@@ -1,10 +1,34 @@
-- 👋 Hi, I’m @marcos-mus
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me marcosmus2019@gmail.com
+# 👋 Hi, I'm Marcos Musafiri
 
-<!---
-marcos-mus/marcos-mus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a passionate **Fullstack Developer** with over 3 years of experience, specializing in building robust web and mobile applications. I thrive in dynamic and fast-paced environments, constantly seeking to innovate and deliver high-quality software solutions.
+
+## 🚀 Skills
+
+### Frontend
+- **Frameworks**: Angular, React, Flutter
+- **Web Development**: HTML, CSS, JavaScript, TypeScript, SCSS
+- **UI Libraries**: Material UI, Bootstrap
+- **State Management**: NgRx, Redux
+- **Other**: Chart.js, ECharts, WordPress
+
+### Backend
+- **Frameworks**: NestJS
+- **Database**: MongoDB, MySQL
+- **API Development**: RESTful APIs, GraphQL
+
+### Tools & Technologies
+- **Version Control**: Git, GitHub
+- **CI/CD**: Jenkins, GitLab CI
+- **Project Management**: Scrum, Jira
+- **Cloud Services**: Firebase, AWS
+
+## 🌱 Currently Learning
+- **Advanced NestJS**: Enhancing my backend development skills.
+
+## 📫 Let's Connect!
+- **LinkedIn**: [[linkedin.com/in/marcos-musafiri](https://www.linkedin.com/in/marcos-musafiri-7520231a1/)](#)
+- **Email**: [marcosmusafirih@gmail.com](marcosmusafirih@gmail.com)
+
+Feel free to check out my projects and contributions on [GitHub](#).
+
+
